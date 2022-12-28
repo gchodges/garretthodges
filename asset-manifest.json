@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/garretthodges/static/css/main.5c78f913.css",
+    "main.css": "/garretthodges/static/css/main.c05be89c.css",
     "main.js": "/garretthodges/static/js/main.31837ad2.js",
     "static/js/787.14a96811.chunk.js": "/garretthodges/static/js/787.14a96811.chunk.js",
     "static/media/measurements.jpeg": "/garretthodges/static/media/measurements.c34e8ad8f07ea0ea766b.jpeg",
@@ -8,12 +8,12 @@
     "static/media/headshot.jpeg": "/garretthodges/static/media/headshot.a104fe283b6618c9a40f.jpeg",
     "static/media/HuffmanTree.svg": "/garretthodges/static/media/HuffmanTree.6a297e077c2246aa6723ee52544f3f3c.svg",
     "index.html": "/garretthodges/index.html",
-    "main.5c78f913.css.map": "/garretthodges/static/css/main.5c78f913.css.map",
+    "main.c05be89c.css.map": "/garretthodges/static/css/main.c05be89c.css.map",
     "main.31837ad2.js.map": "/garretthodges/static/js/main.31837ad2.js.map",
     "787.14a96811.chunk.js.map": "/garretthodges/static/js/787.14a96811.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c78f913.css",
+    "static/css/main.c05be89c.css",
     "static/js/main.31837ad2.js"
   ]
 }
