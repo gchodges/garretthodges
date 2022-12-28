@@ -18,7 +18,7 @@ function Experience() {
                 <ul className='list'>
                     <li>Completed One Computer Science Course</li>
                     <li>Named National Merit Finalist</li>
-                    <li>Graduated Salutitorian</li>
+                    <li>Graduated Salutatorian</li>
                 </ul>
             </VerticalTimelineElement>
             <VerticalTimelineElement className='vertical-timeline-element--education'
@@ -29,6 +29,15 @@ function Experience() {
                 <ul className='list'>
                     <li>Pursuing a BS in Computer Engineering</li>
                     <li>STEM Path to MBA</li>
+                </ul>
+            </VerticalTimelineElement>
+            <VerticalTimelineElement className='vertical-timeline-element--education'
+            date='March 2022 - Present'
+            iconStyle={{background: "#9e1b32", color: "#fff"}}
+            icon={<SchoolIcon />}>
+                <h3 className='vertical-timeline-element-title'>Ambassador for the College of Engineering, University of Alabama, Tuscaloosa, AL</h3> 
+                <ul className='list'>
+                    <li>I give tours of the college of engineering to 15 prospective students per semester</li>
                 </ul>
             </VerticalTimelineElement>
             <VerticalTimelineElement className='vertical-timeline-element--work'
