@@ -18,7 +18,7 @@ function Home() {
             </div>
             <div className='prompt'>
                 <p>I am a second year Computer Engineering student at the University of Alabama with a passion for creative problem solving
-                    and technology.
+                    and technology. I will be graduating earlier than anticipated in May of 2024.
                 </p>
                 <div className='buttonContainer'>    
                     <a href='http://www.linkedin.com/in/garretthodges'><LinkedInIcon /></a>
@@ -36,7 +36,7 @@ function Home() {
                 </li>
                 <li className='listItem'>
                     <h2>Languages</h2>
-                    <span>C++, C, Python, VHDL</span>
+                    <span>C++, C, C#, Python, VHDL, SQLite</span>
                 </li>
                 <li className='listItem'>
                     <h2>Programs</h2>
