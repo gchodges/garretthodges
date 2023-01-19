@@ -6,7 +6,7 @@
   
   .about {
     width: 100%;
-    height: 90vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -16,16 +16,23 @@
     color: #f0f0f0;
   }
   
-  .about h2 {
-    font-size: 50px;
-    color: #fff;
-    height: 10vh;
+  .about .hello {
+    height: 20%;
     margin: 0;
+    display: flex;
+    align-items: center;
+  }
+
+  .about .hello h2 {
+    font-size: 6.5vh;
+    color: #fff;
+    margin: 0;
+    text-align: center;
   }
   
   .about .prompt {
     width: 40%;
-    font-size: 30px;
+    font-size: 3vh;
   }
   .prompt svg {
     font-size: 60px;
@@ -34,18 +41,18 @@
   }
 
   .pics {
-    height: 30vh;
+    height: 100%;
     border-radius: 5%;
   }
   
   .picsContainer{
-    height: 30vh;
+    height: 40%;
     gap: 5vw;
     display: flex;
   }
 
   .skills {
-    font-size: 35px;
+    font-size: 5vh;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -55,6 +62,7 @@
   
   .skills h1 {
     color: #9e1b32;
+    margin-bottom:0;
   }
   
   .skills .list {
@@ -63,7 +71,7 @@
   }
   
   .list span {
-    font-size: 20px;
+    font-size: 2.5vh;
   }
 
   .buttonContainer{

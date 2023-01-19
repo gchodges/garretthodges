@@ -11,7 +11,9 @@ function Home() {
   return (
     <div className='home'>
         <div className='about'>
-            <h2>Hello, my name is Garrett Hodges</h2>
+            <div className='hello'>
+                <h2>Hello, my name is Garrett Hodges</h2>
+            </div>
             <div className='picsContainer'>
             <img className='pics' src={Measurements}/>
             <img className='pics' src={Headshot}/>
